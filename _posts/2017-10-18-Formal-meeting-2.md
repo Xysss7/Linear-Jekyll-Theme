@@ -1,5 +1,5 @@
 ---
-date: 2017.10.18
+date: 2017.10.18 13:00:00 -0800
 title: Formal Meeting 2
 featured: images/pic01.jpg
 layout: post
