@@ -890,9 +890,16 @@
 	{
 		position: relative;
 		background: #fff;
-		min-height: 900px;
+		min-height: 800px;
 	}
 	
+		
+	#main .container
+	{
+		min-height:700px;
+		overflow: auto;
+	}
+
 	.homepage #content
 	{
 		text-align: center;
