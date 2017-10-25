@@ -1,5 +1,5 @@
 ---
-title: Lorem Ipsum Dolor Sit Amet
+title: Welcome to Team 9
 featured: images/pic01.jpg
 layout: post
 ---
