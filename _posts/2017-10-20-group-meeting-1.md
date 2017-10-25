@@ -6,4 +6,4 @@ layout: post
 minutes: minutes/gm1.pdf
 ---
 
-<p>Discuss the main functions in customer and restaurant owner parts.</p>
+<p>Discussed the <strong>main functions</strong> in customer and restaurant owner parts. Decided the <strong>questionaire</trong>. Design this website in Sunday.</p>
