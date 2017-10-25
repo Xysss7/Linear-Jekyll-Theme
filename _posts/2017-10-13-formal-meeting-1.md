@@ -6,4 +6,4 @@ layout: post
 minutes: minutes/fm1.pdf
 ---
 
-<p>Explicit the project and the tasks. Talk about everyone's idea.</p>
+<p>Explained our project and explicited the tasks. Every member showed his or her ideas.</p>
